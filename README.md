@@ -1,4 +1,4 @@
-Questa repository contiene il progetto realizzato per l'esame di programmazione Java (Metodologie di Programmazione) della Sapienza Università di Roma nel aa2025/2026.
+Questa repository contiene il progetto realizzato per l'esame di programmazione Java (Metodologie di Programmazione) della Sapienza Università di Roma nel aa2023/2024.
 Si tratta di una **simulazione di una battaglia Pokémon**, sviluppata interamente da me come progetto individuale.
 
 ## Descrizione del Progetto
